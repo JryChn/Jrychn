@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Jrychn'ss GitHub stats](https://github-readme-stats.vercel.app/api?username=jrychn)](https://github.com/jrychn)
+
+
 <!--
 **JryChn/Jrychn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
