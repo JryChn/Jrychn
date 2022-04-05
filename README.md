@@ -12,8 +12,8 @@
 ### Top Repositories
 
 <a href="https://github.com/jrychn/modulevim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=modulevim&bg_color=f6e58d,f6e58d"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=modulevim&bg_color=f6e58d,f6e58d,f0932b"/>
 </a>
-<a href="https://github.com/jrychn/website-frontend-frame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=website-frontend-frame&bg_color=6ab04c,badc58" />
+<a href="https://github.com/jrychn/website-frontend-framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=website-frontend-framework&bg_color=6ab04c,badc58,#dff9fb" />
 </a>
