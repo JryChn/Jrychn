@@ -18,6 +18,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=website-frontend-framework&bg_color=6ab04c,badc58,dff9fb" />
 </a>
 <a href="https://github.com/jrychn/neovide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=neovide&bg_color=B53471,833471,6F1E51" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=neovide&bg_color=B53471,833471,6F1E51" />
 </a>
 
