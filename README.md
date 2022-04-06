@@ -20,6 +20,6 @@
 </a>
 <br/> <br/>
 <a href="https://github.com/jrychn/neovide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=neovide&bg_color=9980FA,833471,6F1E51" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=neovide&bg_color=9980FA,EA2027,EE5A24" />
 </a>
 
