@@ -20,6 +20,8 @@
 </a>
 <br/> <br/>
 <a href="https://github.com/jrychn/neovide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=neovide&bg_color=9980FA,EA2027,EE5A24" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=neovide&bg_color=9980FA,e15f41,e66767" />
 </a>
-
+<a href="https://github.com/jrychn/redox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrychn&repo=redox&bg_color=63cdda,EA2027,EE5A24" />
+</a>
