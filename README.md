@@ -1,4 +1,5 @@
-<span align="center"><em>Hello, This is JryChn, welcome to my github.</em></span>
+<span align="center"><em>
+  <img src='github-hello.png'/></em></span>
 <br/>
   - 🖇️ My personal WebSite : [https://www.djeremychen.com](https://djeremychen.com).
   - 💬 Contact me with Telegram: [http://t.me/jrychn](https://t.me/jrychn).
